@@ -1,4 +1,4 @@
-Looking_For_Birra
-=================
+google-appengine-python
+=======================
 
-![Codeship Status](https://www.codeship.io/projects/56ac1780-a32b-0131-1be7-329feabca2fa/status)
+Simple "Hello World" Python App for Google App Engine
