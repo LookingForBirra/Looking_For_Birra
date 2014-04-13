@@ -1,4 +1,4 @@
-# Django settings for Looking_for_Birra project.
+# Django settings for Looking_for_Birra project
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
